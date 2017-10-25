@@ -1,0 +1,3 @@
+"Ctrl+Shift+Enter" works anywhere in the line/statement.
+
+A class is a blueprint which you use to create objects. An object is an instance of a class - it's a concrete 'thing' that you made using a specific class. So, 'object' and 'instance' are the same thing, but the word 'instance' indicates the relationship of an object to its class.
